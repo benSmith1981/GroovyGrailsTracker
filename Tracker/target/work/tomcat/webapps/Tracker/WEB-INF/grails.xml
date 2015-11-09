@@ -23,8 +23,12 @@
     <resource>DataSource</resource>
     <resource>resources</resource>
     <resource>UrlMappings</resource>
-    <resource>tracker.ListProjectController</resource>
-    <resource>tracker.ListProject</resource>
+    <resource>tracker.EndUserController</resource>
+    <resource>tracker.ProjectController</resource>
+    <resource>tracker.TaskController</resource>
+    <resource>tracker.EndUser</resource>
+    <resource>tracker.Project</resource>
+    <resource>tracker.Task</resource>
   </resources>
   <plugins>
     <plugin>ScaffoldingGrailsPlugin</plugin>
